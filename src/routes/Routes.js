@@ -9,7 +9,7 @@ import PostsPage from '../pages/posts/Posts.page';
 
 export const appRoutes = {
    home: {
-        path: "/",
+        path: "/HWadv20/",
         element: <HomePage />,
     },
     photos: {

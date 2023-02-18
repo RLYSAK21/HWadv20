@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HWadv20/static/css/main.8b09c82f.css",
+    "main.js": "/HWadv20/static/js/main.dea20992.js",
+    "static/js/787.15a399fe.chunk.js": "/HWadv20/static/js/787.15a399fe.chunk.js",
+    "static/media/falcon.jpeg": "/HWadv20/static/media/falcon.9104465b394749933421.jpeg",
+    "static/media/mask.jpeg": "/HWadv20/static/media/mask.fc9023cde6b178833b1c.jpeg",
+    "static/media/newSeo.jpeg": "/HWadv20/static/media/newSeo.f1e1fed080ce58a443d3.jpeg",
+    "static/media/twitterBoard.jpeg": "/HWadv20/static/media/twitterBoard.4a3ea2d7a65101d6d25c.jpeg",
+    "static/media/dog.jpeg": "/HWadv20/static/media/dog.213c85e7afbb631cf4b8.jpeg",
+    "static/media/elonTwitts.jpeg": "/HWadv20/static/media/elonTwitts.8fb7a2d6a8762154db66.jpeg",
+    "static/media/dogcoin.jpeg": "/HWadv20/static/media/dogcoin.4be57e4cc6163f82b0a2.jpeg",
+    "static/media/starlink.jpeg": "/HWadv20/static/media/starlink.af1ece5dc0d66d63ab84.jpeg",
+    "static/media/chatGPT.jpeg": "/HWadv20/static/media/chatGPT.bf7f90b5cef19cc14499.jpeg",
+    "static/media/checkmark.svg": "/HWadv20/static/media/checkmark.06b3e0a7fec87b2cf25e75386e96e624.svg",
+    "static/media/like.svg": "/HWadv20/static/media/like.9ebe8e687afb9d650035a3f39f6afb8d.svg",
+    "static/media/download.svg": "/HWadv20/static/media/download.db173770fc8b2fd3c9f0bf641960cc84.svg",
+    "static/media/share.svg": "/HWadv20/static/media/share.884c34ff651a0fd8aed6da2437f6f59f.svg",
+    "index.html": "/HWadv20/index.html",
+    "static/media/message.svg": "/HWadv20/static/media/message.ec38dba060e8b3fafd92b0ba39e0646d.svg",
+    "main.8b09c82f.css.map": "/HWadv20/static/css/main.8b09c82f.css.map",
+    "main.dea20992.js.map": "/HWadv20/static/js/main.dea20992.js.map",
+    "787.15a399fe.chunk.js.map": "/HWadv20/static/js/787.15a399fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b09c82f.css",
+    "static/js/main.dea20992.js"
+  ]
+}

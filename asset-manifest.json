@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HWadv20/static/css/main.8b09c82f.css",
-    "main.js": "/HWadv20/static/js/main.dea20992.js",
+    "main.js": "/HWadv20/static/js/main.54410db2.js",
     "static/js/787.15a399fe.chunk.js": "/HWadv20/static/js/787.15a399fe.chunk.js",
     "static/media/falcon.jpeg": "/HWadv20/static/media/falcon.9104465b394749933421.jpeg",
     "static/media/mask.jpeg": "/HWadv20/static/media/mask.fc9023cde6b178833b1c.jpeg",
@@ -19,11 +19,11 @@
     "index.html": "/HWadv20/index.html",
     "static/media/message.svg": "/HWadv20/static/media/message.ec38dba060e8b3fafd92b0ba39e0646d.svg",
     "main.8b09c82f.css.map": "/HWadv20/static/css/main.8b09c82f.css.map",
-    "main.dea20992.js.map": "/HWadv20/static/js/main.dea20992.js.map",
+    "main.54410db2.js.map": "/HWadv20/static/js/main.54410db2.js.map",
     "787.15a399fe.chunk.js.map": "/HWadv20/static/js/787.15a399fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b09c82f.css",
-    "static/js/main.dea20992.js"
+    "static/js/main.54410db2.js"
   ]
 }
